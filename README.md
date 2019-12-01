@@ -4,7 +4,7 @@ Suppose we have a traveller who wants to move between two points in a rectangula
 
 ![](grid.png)
 
-Originally written on August 2, 2015.
+I went as far as obtaining a result for 2 or fewer intersections to be avoided so, technically, this is still work in progress. Originally written on August 2, 2015.
 
 ## Creator
 
