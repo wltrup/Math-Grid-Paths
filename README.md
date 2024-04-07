@@ -6,10 +6,6 @@ Suppose we have a traveller who wants to move between two points in a rectangula
 
 I went as far as obtaining a result for 2 or fewer intersections to be avoided so, technically, this is still work in progress. Originally written on August 2, 2015.
 
-## Creator
-
-That would be me, _Wagner Truppel_. If you need or want to contact me, send a message to `wagner` at `restlessbrain` dot com.
-
 ## License
 
 I'm sharing this work under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/) license. See the LICENSE file for more information.
